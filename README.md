@@ -1,4 +1,4 @@
-# otp_phone
+# Mail verification app
 
 A new Flutter project.
 
